@@ -1,16 +1,19 @@
-## Hi there 👋
+Ты не прав, ты только думаешь, что понимаешь, на самом деле люди не понимают даже самих себя, не то что кого-нибудь другого.
+Невозможно понять что-нибудь даже на 1%, поэтому мы и проводим столько времени, пытаясь понять свои желания и желания других, это и делает жизнь такой интересной.
 
-<!--
-**Vanoermak62/Vanoermak62** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ты просто веришь, что кое-что узнал.
+Люди и себя-то толком не понимают, а других ещё меньше.
+Понять всё на сто процентов невозможно. Вот почему мы тратим столько времени на понимание причин собственных поступков и поступков других. Поэтому жизнь так интересна.
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Frontend**
+Vue · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+
+**Backend**
+Node.js · Express · PostgreSQL · Prisma
+
+**Tools**
+Git · GitHub · Vite
