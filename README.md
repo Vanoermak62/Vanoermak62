@@ -17,3 +17,5 @@ Node.js · Express · PostgreSQL · Prisma
 
 **Tools**
 Git · GitHub · Vite
+
+<img src="./Persona5 Joker.gif" width="500">
